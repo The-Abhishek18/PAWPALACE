@@ -1,0 +1,334 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.maindiv {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   /* flex-direction: column; */
+   padding: 20px;
+   flex-wrap: wrap;
+   background-color: #b6cca1;
+    margin-top: 10px;
+}
+.innerdiv1
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog1.jpg");
+    background-size: cover;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    color: white;
+    border: 4px solid black;
+
+}
+.innerdiv2{
+    width: 400px;
+    height: 400px;
+    /* background-color:yellow; */
+    background-image: url("dog2.jpg");
+    background-size:cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    /* margin-top: 20px;     */
+}
+.innerdiv3{
+    width: 400px;
+    height: 400px;
+    /* background-color:blue; */
+    background-image: url("dog3.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    /* margin-top: 20px; */
+
+}
+.innerdiv4
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog4.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+
+}
+.innerdiv5
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog5.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+}
+.innerdiv6
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog6.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+}
+.innerdiv7
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog7.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+}
+.innerdiv8
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog8.jpg");
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+}
+.innerdiv9
+{
+    width: 400px;
+    height: 400px;
+    background-image: url("dog9.jpg");
+    background-size:cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 4px solid black;
+    margin-top: 20px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p3{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p4{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p5{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p6{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p7{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p8{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.p9{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 40px;
+    margin-top: 353px;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: #30011e;;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.logo {
+font-size: 60px;
+font-weight: bold;
+color:white;
+margin-left: 220px;
+
+}
+.navigation a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.navigation a:hover{
+    text-decoration: underline;
+}
+.hero {
+    margin-top: 10px;
+    height: 400px;
+    width: 100%;
+    /* background-color: #d7fcd4; */
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.para{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex; 
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic
+{
+    height: 350px;
+    width: 800px;
+    background-image: url("dogpic2.jpg");
+    background-size: cover;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.pawimg {
+    height: 100%;
+    width: 200px;
+    border-radius: 10px;
+    background-image: url("paw.jpg");
+}
+.footer {
+    height: 100px;
+    width: 100%;
+    background-color: #545454;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    
+}
+.footer p {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+.links p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
